@@ -1,1 +1,1 @@
-# key-value-pairs
+# key-value-data store
